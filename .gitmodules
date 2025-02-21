@@ -1,0 +1,3 @@
+[submodule "personnal"]
+	path = personnal
+	url = git@github.com:Firenezz/.dotfiles-personnal.git
